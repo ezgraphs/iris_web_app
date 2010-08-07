@@ -1,3 +1,5 @@
 Ruby Sinatra Web Application that connects to R using Rserve and displays data from R as well as scatter plots rendered by ggplot2.
 
-More information on http://www.r-chart.com
+More information on 
+
+http://www.r-chart.com/2010/08/iris-data-set-visualization-web-app-in.html
